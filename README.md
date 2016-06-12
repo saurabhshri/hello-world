@@ -1,2 +1,2 @@
 # hello-world
-Just a rather very simple beginning!
+Just a rather traditional beginning!
